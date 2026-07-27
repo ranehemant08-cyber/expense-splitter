@@ -6,11 +6,16 @@ Expense Splitter App is a Splitwise-like web application that helps users create
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
+## features
+➤👥 Create and manage groups
+➤👤 Add and remove members
+➤💰 Add, edit, and delete expenses
+➤🏷️ Expense category support
+➤⚖️ Automatic equal expense splitting
+➤🤝 Settle-up calculation (who pays whom)
+➤💾 Local Storage data persistence
+➤📱 Responsive and clean UI
 
 To learn more about Next.js, take a look at the following resources:
 
