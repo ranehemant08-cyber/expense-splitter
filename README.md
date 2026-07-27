@@ -44,3 +44,7 @@ To learn more about Next.js, take a look at the following resources:
 ➤Deployment: Vercel
 
 
+## Screenshot
+<img width="1351" height="906" alt="Image" src="https://github.com/user-attachments/assets/e03fc819-c357-4a9e-8001-6e9d5c5f7a10" />
+
+
