@@ -45,6 +45,10 @@ To learn more about Next.js, take a look at the following resources:
 
 
 ## Screenshot
+# Login Page
 <img width="1351" height="906" alt="Image" src="https://github.com/user-attachments/assets/e03fc819-c357-4a9e-8001-6e9d5c5f7a10" />
+
+# Group & Expense Splitting
+<img width="1352" height="1063" alt="Image" src="https://github.com/user-attachments/assets/81c498c0-d74b-4b1c-9d19-8f41488e68f6" />
 
 
