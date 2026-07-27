@@ -9,12 +9,19 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## features
 ➤👥 Create and manage groups
+
 ➤👤 Add and remove members
+
 ➤💰 Add, edit, and delete expenses
+
 ➤🏷️ Expense category support
+
 ➤⚖️ Automatic equal expense splitting
+
 ➤🤝 Settle-up calculation (who pays whom)
+
 ➤💾 Local Storage data persistence
+
 ➤📱 Responsive and clean UI
 
 To learn more about Next.js, take a look at the following resources:
