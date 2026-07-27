@@ -1,13 +1,13 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Expense splitter
+# Expense splitter
 
 Expense Splitter App is a Splitwise-like web application that helps users create groups, add members, track shared expenses, calculate equal expense splits, and view settlement details.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-## features
+# features
 ➤👥 Create and manage groups
 
 ➤👤 Add and remove members
@@ -27,7 +27,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 To learn more about Next.js, take a look at the following resources:
 
 
-## Tech Stack
+# Tech Stack
 
 ➤Frontend: Next.js, React
 
@@ -44,11 +44,11 @@ To learn more about Next.js, take a look at the following resources:
 ➤Deployment: Vercel
 
 
-## Screenshot
-# Login Page
+# Screenshot
+## Login Page
 <img width="1351" height="906" alt="Image" src="https://github.com/user-attachments/assets/e03fc819-c357-4a9e-8001-6e9d5c5f7a10" />
 
-# Group & Expense Splitting
+## Group & Expense Splitting
 <img width="1352" height="1063" alt="Image" src="https://github.com/user-attachments/assets/81c498c0-d74b-4b1c-9d19-8f41488e68f6" />
 
 
